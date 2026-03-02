@@ -59,3 +59,5 @@ Response:
 ```json
 { "status": "ok" }
 ```
+<br>
+you can check this website live on - https://deep-secure-ai-scam-analyzer.vercel.app/
